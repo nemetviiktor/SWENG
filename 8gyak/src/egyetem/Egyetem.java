@@ -104,7 +104,7 @@ public class Egyetem {
 		
 		@Override
 		public String toString() {
-			return "Kar [nev=" + nev + ", dekan=" + dekan + ", tanszekek=" + tanszekek + "]";
+			return "Kar [nev=" + nev + ", dekan=" + dekan + "]";
 		}
 
 		public void tanszekHozzaad(Tanszek t) {
@@ -117,6 +117,10 @@ public class Egyetem {
 			for (Tanszek t : tanszekek) {
 				System.out.println(t.toString());
 			}
+		}
+		
+		public int getTanszekekSzama() {
+			return this.tanszekek.size();
 		}
 		
 
