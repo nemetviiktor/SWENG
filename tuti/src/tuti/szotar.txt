@@ -1,0 +1,6 @@
+ház=house
+konyv=book
+dob=drum
+kutya=dog
+írni=write
+macska=cat
