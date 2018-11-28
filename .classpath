@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="1_gyak/src"/>
+	<classpathentry kind="src" path="3_2_gyak/src"/>
+	<classpathentry kind="src" path="3_gyak/src"/>
+	<classpathentry kind="src" path="5_2gyak/src"/>
+	<classpathentry kind="src" path="5_gyak/src"/>
+	<classpathentry kind="src" path="8gyak/src"/>
+	<classpathentry kind="src" path="tuti/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="1_gyak/bin"/>
+</classpath>
